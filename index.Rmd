@@ -8,9 +8,6 @@ output:
 ---
 
 
-
-title: "Gov 50 Final Project"
-title: "Gov 50 Final Project"
 ## Project thoughts
 
 I am interested in exploring data related to investigate mental health trends and their correlation with societal factors. On the other hand I would like to investigate campaign finance data and its influence on political outcomes. (This are not concrete thoughts but it's just a some vague ideas regarding my project).
